@@ -1,1 +1,1 @@
-# https-github.com-holasoymalva-curso-practico-de-typescript-2025
+# curso-practico-de-typescript-2025
